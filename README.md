@@ -54,9 +54,9 @@ The project follows a real-world workflow where data is processed in SQL (cloud-
 
 ---
 
-## 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+[![Dashboard Preview](dashboard.png)](Dashboard%20RFM.pbix)
 
 ---
 
